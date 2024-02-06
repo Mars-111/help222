@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/develop/C++/C++/31.5/2.2/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/run.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\run.dir\\src\\main.cpp.obj -c C:\\develop\\C++\\C++\\31.5\\2.2\\src\\main.cpp",
+  "file": "C:/develop/C++/C++/31.5/2.2/src/main.cpp",
+  "output": "CMakeFiles/run.dir/src/main.cpp.obj"
+}
+]
